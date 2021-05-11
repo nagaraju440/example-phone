@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "264203647151",
+    "project_id": "swadhyaya-993da",
+    "storage_bucket": "swadhyaya-993da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264203647151:android:7e63cd35ba6495b625fc5a",
+        "android_client_info": {
+          "package_name": "com.swadhyaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264203647151-lj6q6uc4pbple669gq5g4pa145ndj5vu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swadhyaya",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "264203647151-kgq0o66n5uppkan9dc3v87s5or8sq1op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIeXiUm2PNC130gQgX6mR7_1oMvPn_3yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264203647151-kgq0o66n5uppkan9dc3v87s5or8sq1op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
